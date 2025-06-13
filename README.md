@@ -131,4 +131,4 @@ This string contains all 8 ($2^3$) possible 3-bit binary substrings: 000, 001, 0
 
 ---
 
-Next up: **String Reconstruction from Read-Pairs** →
+
