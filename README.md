@@ -2,6 +2,8 @@
 
 # README: k-Universal Circular String Generator
 
+## Author: Dr Anwesha Sarkar
+
 ---
 
 ### Problem Overview
